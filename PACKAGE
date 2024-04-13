@@ -1,0 +1,5 @@
+PLATFORM:BOTH
+WIN:build.bat
+LINUX:build.sh
+NAME:example_pkg
+ENTRY:main
