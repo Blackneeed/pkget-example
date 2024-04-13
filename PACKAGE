@@ -1,6 +1,0 @@
-PLATFORM:BOTH
-WIN:build.bat
-LINUX:build.sh
-NAME:example_pkg
-WIN_ENTRY:main.exe
-LINUX_ENTRY:main
