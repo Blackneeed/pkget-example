@@ -1,5 +1,5 @@
-WIN:build.bat
-LINUX:build.sh
+WIN_BUILD:build.bat
+LINUX_BUILD:build.sh
 NAME:example_pkg
 WIN_ENTRY:main.exe
 LINUX_ENTRY:main
